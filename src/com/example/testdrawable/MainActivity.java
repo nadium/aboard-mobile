@@ -168,6 +168,8 @@ public class MainActivity extends Activity {
 			// Highlight the selected item, update the title
 			// update selected item and title, then close the drawer
 	        mDrawerList.setItemChecked(position, true);
+	        
+	        //Check box when click on cell
 	        if (view != null) {
 	            CheckBox checkBox = (CheckBox)view.findViewById(R.id.CheckBox);
 	            checkBox.setChecked(!checkBox.isChecked());
