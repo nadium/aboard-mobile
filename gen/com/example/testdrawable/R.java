@@ -36,11 +36,12 @@ public final class R {
     }
     public static final class id {
         public static final int CheckBox=0x7f090005;
-        public static final int action_search=0x7f090008;
-        public static final int action_settings=0x7f090007;
+        public static final int action_search=0x7f090009;
+        public static final int action_settings=0x7f090008;
+        public static final int drawableSearchFilter=0x7f090006;
         public static final int drawer=0x7f090001;
         public static final int drawer_layout=0x7f090000;
-        public static final int menu_divider=0x7f090006;
+        public static final int menu_divider=0x7f090007;
         public static final int menurow_icon=0x7f090003;
         public static final int menurow_title=0x7f090004;
         public static final int ns_menu_row=0x7f090002;
